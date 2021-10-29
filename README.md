@@ -1,5 +1,5 @@
 # open-source
-Daily Log of my contributions to open source projects
+List of my contributions to open source projects.
 
 
 ### [HOT - Humanitarian OpenStreetMap Team (2021)](https://tasks.hotosm.org)
