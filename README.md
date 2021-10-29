@@ -3,19 +3,19 @@ Daily Log of my contributions to open source projects
 
 
 ### [HOT - Humanitarian OpenStreetMap Team (2021)](https://tasks.hotosm.org)
-[x] Become a beginner mapper\
-[x] Become an intermediate mapper\
-[x] Become an advance mapper\
-[ ] Become a validator\
-[x] Learn how to use iD Editor\
-[x] Learn how to use JOSM\
-[x] Contribute to a Mapathon\
-[ ] Join a community team\
-[ ] Create Issues GitHub\
-[ ] Submit a Pull Request
+- [x] Become a beginner mapper
+- [x] Become an intermediate mapper
+- [x] Become an advance mapper
+- [ ] Become a validator
+- [x] Learn how to use iD Editor
+- [x] Learn how to use JOSM
+- [x] Contribute to a Mapathon
+- [ ] Join a community team
+- [ ] Create Issues GitHub
+- [ ] Submit a Pull Request
 
 ### [Margarita Humanitarian (2021)](https://helpafamily.margaritahumanitarian.org/)
-[x] Create Issues
+- [x] Create Issues
 - [BUG] Typos on the "Donate Your Old Electronics to Families in Need" Form 
 - [UX/UI] Hard to read yellow email address on grey background
 - [BUG] The 'Thank you' page is not responsive on mobile
@@ -25,26 +25,26 @@ Daily Log of my contributions to open source projects
 - [BUG] Nav elements not clickable 
 
 
-[x] Submit a Pull Request
+- [x] Submit a Pull Request
 - [CLOSED] Removed in-line style color yellow on email address
 
 ### [Climate Connect (2021)](https://climateconnect.earth/)
-[x] Create Issues
+- [x] Create Issues
 - [Bug] No spacing between text and image on About page
 
 
-[ ] Submit a Pull Request
+- [ ] Submit a Pull Request
 
 ### [If Me (2020)](https://www.if-me.org/)
-[x] Create Issues
+- [x] Create Issues
 - [ACCESSIBILITY] Cursor doesn't change when hovering over new mood description
 - [ACCESSIBILITY] Cursor doesn't change when hovering over medication details
 
 
-[ ] Submit a Pull Request
+- [ ] Submit a Pull Request
 
 ### [Plant for the Planet (2020)](https://www1.plant-for-the-planet.org/)
-[x] Create Issues
+- [x] Create Issues
 - [BUG] Help Desk icon hides Privacy Terms icon
 - [BUG] No left padding/margin on sign in form for donors details
 - [BUG] The 4th tab of a project on the 'donate trees' page doesn't work
@@ -52,5 +52,5 @@ Daily Log of my contributions to open source projects
 - [ACCESSIBILITY] Hovering over the categories of the 'Explore' page doesn't change cursor type to pointer
 
 
-[ ] Submit a Pull Request
+- [ ] Submit a Pull Request
 
