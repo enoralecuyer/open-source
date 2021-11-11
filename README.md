@@ -10,9 +10,7 @@ List of my contributions to open source projects.
 - [x] Learn how to use iD Editor
 - [x] Learn how to use JOSM
 - [x] Contribute to a Mapathon
-- [ ] Join a community team
-- [ ] Create Issues GitHub
-- [ ] Submit a Pull Request
+- [x] Join a community team
 
 ### [Margarita Humanitarian (2021)](https://helpafamily.margaritahumanitarian.org/)
 - [x] Create Issues
@@ -20,7 +18,7 @@ List of my contributions to open source projects.
 - [UX/UI] Hard to read yellow email address on grey background
 - [BUG] The 'Thank you' page is not responsive on mobile
 - [BUG] Text on Footer gets pushed to a second line too early
-- [IDEA] Adding contact information, copyright, policies and year in the footer
+- [IDEA] Add contact information, copyright, policies and year in the footer
 - [IDEA] Create a Call To Action to apply to become a volunteer
 - [BUG] Nav elements not clickable 
 
@@ -32,16 +30,10 @@ List of my contributions to open source projects.
 - [x] Create Issues
 - [Bug] No spacing between text and image on About page
 
-
-- [ ] Submit a Pull Request
-
 ### [If Me (2020)](https://www.if-me.org/)
 - [x] Create Issues
 - [ACCESSIBILITY] Cursor doesn't change when hovering over new mood description
 - [ACCESSIBILITY] Cursor doesn't change when hovering over medication details
-
-
-- [ ] Submit a Pull Request
 
 ### [Plant for the Planet (2020)](https://www1.plant-for-the-planet.org/)
 - [x] Create Issues
@@ -50,7 +42,3 @@ List of my contributions to open source projects.
 - [BUG] The 4th tab of a project on the 'donate trees' page doesn't work
 - [ACCESSIBILITY] Hovering over 'View More' doesn't change cursor to type pointer
 - [ACCESSIBILITY] Hovering over the categories of the 'Explore' page doesn't change cursor type to pointer
-
-
-- [ ] Submit a Pull Request
-
