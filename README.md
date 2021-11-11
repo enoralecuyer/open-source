@@ -10,7 +10,7 @@ List of my contributions to open source projects.
 - [x] Learn how to use iD Editor
 - [x] Learn how to use JOSM
 - [x] Contribute to a Mapathon
-- [x] Join a community team
+- [x] Join the Activators team
 
 ### [Margarita Humanitarian (2021)](https://helpafamily.margaritahumanitarian.org/)
 - [x] Create Issues
